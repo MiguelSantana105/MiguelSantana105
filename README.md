@@ -40,6 +40,9 @@ loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/
 ## Sistemas Operacionais 💻 
 <img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" />
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
