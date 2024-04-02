@@ -31,6 +31,23 @@
 <img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /><img 
 loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 
+## Bibliotecas 💻 
+
+<img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
+
+## Sistemas Operacionais 💻 
+<img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /><img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" />
+
+
+
+
+
+
+
+          
+
 
 
 
