@@ -1,10 +1,10 @@
 ### Olá, meu nome é Miguel
-## Bem vindo ao meu GitHub👋
+## Bem vindo ao meu GitHub👋                                                                                                                      
 
 - Atuando como Desenvolvedor Front-End / **FreeLancer**
 - Cursando **Engenharia de Software** / **Descomplica**
 - Cursando **Desenvolvimento de Sistemas - Beck-End** / **Softex**
--  **Assistente Administrativo/Gestor de Pessoas**
+-  **Assistente Administrativo/Gestor de Pessoas** 
 
 ## 🧑‍💻 Análise do GitHub 
 
